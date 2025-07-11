@@ -1,0 +1,6 @@
+# Bot Configuration
+API_ID = 23403968  # Your Telegram API ID
+API_HASH = "494b4d9065307d43a3eb74b57a252a43"  # Your Telegram API Hash
+BOT_TOKEN = "7140094105:AAE7-t9N9xth7i8RdJqW1gPTynAAUcK-MVo"  # Your Bot Token
+SESSION_STRING = "BQFlHcAAilJU0f1FsZ3IXjKD18gMkE504tGDi9RegO6tmz5cDVYn2H-xWFZi_LZ37JnYXuGPt4aWXdQaoJjO0vJ4xsgd4JZGQnhLxBDRmp2-nhwJ-u34FXGRhAaCOM9nctHIGhLs3Um2WMi7aq6SwY3qK8dUZcoP-E1ZqNh4hSqHu0i5YbYDlpra_9kAz66GOcpPsSa8Xhg5GMc2J0-Kkm4gLrgKMsp-snumZt_XjhDjNm1wFXsNGkEoR7Lv6Ejzu8EI2NRm5F5lLVlumDF7-Q1-uiI7V_fm4B8M0mpOTIqtVRRe3o5vfAg22k8nkgFZIwTKDvwENwFBuwbt-UIDaybWvnpa-gAAAABjGl6RAA"  # Generate this with generate_session.py
+OWNER_ID = 1662672529  # Your Telegram User ID
